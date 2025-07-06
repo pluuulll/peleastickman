@@ -1,4 +1,4 @@
-Cómo compilar y ejecutar
+Como compilar y ejecutar
 
 1. Guarda el archivo:
 
@@ -17,7 +17,7 @@ Este comando compila el programa y genera el ejecutable peleastickman.exe.
 
 
 
-Cómo jugar:
+Como jugar:
 Durante la partida, controlarás a tu personaje stickman y deberás elegir una acción en cada turno: 
 
 1 → Atacar: Inflige daño al enemigo con tu palo. 
